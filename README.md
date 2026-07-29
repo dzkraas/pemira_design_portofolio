@@ -1,2 +1,2 @@
 # pemira_design_portofolio
-PDD Design Portofolio
+Design portfolio for my role as the PDD Coordinator at Pemira 2025.
