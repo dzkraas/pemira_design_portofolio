@@ -1,5 +1,5 @@
 # pemira_design_portofolio
-Design portfolio for my role as the PDD Coordinator at Pemira 2025.
+Design portfolio for my role as the Head of PDD Division at Pemira 2025.
 
 As the Head of the PDD Division, I was responsible for managing publications, documentation, and visual design to support the execution of the Student Association General Election.
 
